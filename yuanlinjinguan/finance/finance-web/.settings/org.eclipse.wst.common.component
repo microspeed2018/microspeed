@@ -24,6 +24,6 @@
             <dependency-type>uses</dependency-type>
         </dependent-module>
         <property name="java-output-path" value="/finance-web Maven Webapp/target/classes"/>
-        <property name="context-root" value="/ROOT"/>
+        <property name="context-root" value="finance-web"/>
     </wb-module>
 </project-modules>
